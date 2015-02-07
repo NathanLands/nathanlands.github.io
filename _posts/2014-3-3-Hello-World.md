@@ -143,7 +143,7 @@ In Japanese, "ai" is how you spell the English word "Eye" using the Roman alphab
 
 As a result, we decided to call the company *Blockai* (Pronounced "Block Eye"). 
 
-<p align="center"><img src="http://i.imgur.com/VoQuM7v.png" alt="Kai"></p>
+<p align="center"><img src="http://i.imgur.com/U375qdu.png" alt="Kai"></p>
 
 WHY THIS IS IMPORTANT..... HISTORY...
 
