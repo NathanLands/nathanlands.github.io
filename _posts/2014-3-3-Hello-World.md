@@ -98,9 +98,9 @@ As part of our focus on thinking very long term, we brought on a great group of 
 We worked on the next version of QuickCoin, with a more native feel for the mobile version, as well as a lot of cool features that people didn't really notice like "QuickCoin Nearby" which allowed you to send bitcion to anyone nearby without having to be Facebook friends or knowing their public key. 
 <p align="center"><img src="http://i.imgur.com/h4Wo1Vt.png" alt="QuickCoin V2.0"></p>
 
-We also had some brand art designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
+We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
 
-<p align="center"><img src="http://i.imgur.com/IbMkg65.gif" alt="QuickCoin Art"></p>
+<p align="center"><img src="http://i.imgur.com/pNc0kVU.gif" alt="QuickCoin Art"></p>
 
 and then... traffic died off. hard. 
 
