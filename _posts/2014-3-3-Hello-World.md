@@ -12,7 +12,7 @@
 * A single application for using the best protocols of the blockchain. Instead of having to use different logins and wallets and find all of the different apps, you can now do it all from Blockai with a single identity and wallet.
 * The same way Netscape showed the world what it means to use the web and built open-source technologies to support its growth— we are doing the same for the blockchain. 
 * Our first open-source protocols are [Blockcast](https://github.com/williamcotton/blockcast)(text)
-* and in time for Valentine's Day, [Proof of Love](https://github.com/blockai/proof-of-love). **_"Diamonds aren't forever. Blockchain is."_**
+* and in time for Valentine's Day, [Proof of Love](https://github.com/blockai/proof-of-love). **_"Diamonds aren't forever. The Blockchain is."_**
 * _We believe that by giving people more ways to use the blockchain and bringing order to chaos, Blockai will help spread bitcoin and start building real sustainable value for us all._
 
 ## Long Story 
@@ -95,7 +95,7 @@ As part of our focus on thinking very long term, we brought on a great group of 
 We worked on the next version of QuickCoin, with a more native feel for the mobile version, as well as a lot of cool features that people didn't really notice like "QuickCoin Nearby" which allowed you to send bitcion to anyone nearby without having to be Facebook friends or knowing their public key. 
 <p align="center"><img src="http://quickcoin2" alt="QuickCoin V2.0"></p>
 
-We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer XYZ, the guy who created a lot of the latest icons for AirBnB. 
+We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
 
 and then... traffic died off. hard. 
 
