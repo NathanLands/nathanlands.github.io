@@ -88,7 +88,7 @@ Then we got rich and danced in money...
 
 Well.. okay, so that didn't really happen.
 
-A few launch stats:
+But we did pretty decent. Here were our launch stats:
 * Over $150,000 worth of bitcoin sent via the Facebook API in just 10 days. 
 * Over 10,000 users signed up. 
 * 3:10 Average usage duration.
