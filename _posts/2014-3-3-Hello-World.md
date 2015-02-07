@@ -43,19 +43,21 @@ Also, we experienced the big public perception problem right in our face. Someon
 
 ____
 
-Peter Shiau from Standard Chartered Bank(old world British Oil bank..) was in attendance. We told him our idea for an application to make bitcoin more friendly and easier to spread, to solve some of the immediate problems we had seen that were limiting bitcoin from spreading. He offered to let us stay at their shared office space for 6+ months since he thought what we were building was cool and the bank might even be interested in investing at some point. It was a bit creepy to have an old bank invite us to their office, but it was in South Park.. a spot that's super expensive and next to 21st Amendment, one of our favorite meetup spots. And it was free. We said yes.
+Peter Shiau from Standard Chartered Bank(old world British Oil bank..) was in attendance. We told him our idea for an application to make bitcoin more friendly and easier to spread, to solve some of the immediate problems we had seen that were limiting bitcoin from spreading. 
+
+He offered to let us stay at their shared office space for 6+ months since he thought what we were building was cool and the bank might even be interested in investing at some point. It was a bit creepy to have an old bank invite us to their office, but it was in South Park, one of the most sought after areas to get an office in San Francisco. And it was free, so of course we said yes.
 
 <p align="center"><img src="http://i.imgur.com/G1JX3S5.jpg" alt="QuickCoin Office"></p>
 
 ____
 
-We then began building QuickCoin, "Bitcoin Made Simple", with the initial goal being to build an easier to use bitcoin wallet, that would make bitcoin seem more friendly to regular people, and would help bitcoin spread by dramatically reducing the steps necessary to send to a friend. 
+We then began building QuickCoin, "Bitcoin Made Simple", with the initial goal being to build the easist bitcion wallet ever, that would make bitcoin seem more friendly to regular people, and would help bitcoin spread by dramatically reducing the steps necessary to send it to a friend. 
 
-At the time, there were just 2 of us, me(a gaming entrepeneur with basic web skills but much more experienced in business) and our other partner, who was a well known bitcoin trader but didn't have any technical skills. I could build basic websites, but nothing on the scale of the type of hard-core engineering we'd need.
+At the time, there were just 2 of us. A gaming entrepreneur and a bitcoin trader. I could build basic websites, but nothing on the scale of the type of hard-core engineering we'd need.
 
-I started reaching out to my network of engineers I trusted and had known for a few years and ended up setting up a brunch with Paul McKellar, a friend most known for being the first engineer at Square. He told me that I needed to talk with [William Cotton](http://www.linkedin.com/in/williamcotton), one of the best engineers he knew.
+I started reaching out to my network of engineer friends I trusted and had known for a few years and ended up setting up a brunch with Paul McKellar, most known for being the first engineer at Square tho he's done a lot of aweosme things. He told me that I needed to talk with [William Cotton](http://www.linkedin.com/in/williamcotton), one of the best engineers he knew. 
 
-We contacted William and met up at 21st Amendment in South Park. He showed up wearing the only bitcoin to his name around his neck. Like most of the best engineers out there, he had kind of written off bitcoin and hadn't dived deep into the blockchain, because well.. most people hate bankers and finance. We offered to pay him to work on a prototype. He came back a week later and was mindblown by what all the blockchain would enable in the future. We offered to be equal partners. 
+We contacted William and met up at 21st Amendment in South Park. He showed up looking like a Country Music Star with a Buffalo Bills hat and was wearing the only bitcoin to his name around his neck. Like most of the best engineers out there, he had kind of written off bitcoin and hadn't dived deep into the blockchain, because well.. most engineers hate bankers and finance. We offered to pay him to work on a prototype. He came back a week later and was mindblown by what all the blockchain would enable in the future. We offered to be equal partners. 
 
 While William was building the product, we worked on continuining to engage with the community as much as possible. We were introduced to Pamir Gelenbe who was preparing to do the CoinSummit  in San Francisco. We became a Media Sponsor for the summit and I helped promote it as well as got Fast Company to live blog the event.
 
@@ -94,9 +96,11 @@ A few launch stats:
 As part of our focus on thinking very long term, we brought on a great group of [advisors](http://quickcoin.co/about#advisors) to give us a solid foundation for the future. We brought in friends & people we respected from major technology companies and gaming companies. People like Zach Klein(Vimeo), Don Dodge(Google), Paul McKellar(Square), Kai Huang(Guitar Hero) and Kevin Chou(Kabam). 
 
 We worked on the next version of QuickCoin, with a more native feel for the mobile version, as well as a lot of cool features that people didn't really notice like "QuickCoin Nearby" which allowed you to send bitcion to anyone nearby without having to be Facebook friends or knowing their public key. 
-<p align="center"><img src="http://quickcoin2" alt="QuickCoin V2.0"></p>
+<p align="center"><img src="http://quickcoin2.gif" alt="QuickCoin V2.0"></p>
 
 We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
+
+<p align="center"><img src="http://i.imgur.com/xCSTn0E.gif" alt="QuickCoin Art"></p>
 
 and then... traffic died off. hard. 
 
