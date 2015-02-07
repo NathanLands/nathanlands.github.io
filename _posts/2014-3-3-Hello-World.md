@@ -90,8 +90,6 @@ A few launch stats:
 
 Then, things got serious. Major disagreements were had about the future and hard decisions had to be made. Our team went from 3 to 2. It was painful and difficult for all, but we knew it was for the best for all involved and for the future strength of the company. 
 
-We decided instead of raising money from investors for a product we weren't convinced would really be the future, we'd be keep self-financing the company, bootstrapping and taking what we had built and learned and turning int into something that would really take things to the next level of providing value, giving people a way to use bitcoin and helping it spread. 
-
 As part of our focus on thinking very long term, we brought on a great group of [advisors](http://quickcoin.co/about#advisors) to give us a solid foundation for the future. We brought in friends & people we respected from major technology companies and gaming companies. People like Zach Klein(Vimeo), Don Dodge(Google), Paul McKellar(Square), Kai Huang(Guitar Hero) and Kevin Chou(Kabam). 
 
 We worked on the next version of QuickCoin, with a more native feel for the HTML5 Mobile version.
@@ -110,6 +108,8 @@ We have a few theories about why it failed.
 That in combination with the fact that we didn't personally think a bitcoin wallet was inspiring to work on, as well as the Facebook API was changing so we'd have to change anyways. 
 
 We beat our heads against the wall a bit, then got back to work. We soul searched and thought long and hard about what fundamentally had interested us in bitcoin in the first place. We kept coming back to the idea of bitcoin being this freeing thing. The more and more we thought about it, we realized that the blockchain could be used for so much more than it is today.
+
+We decided instead of raising money from investors for a product we weren't convinced would really be the future, we'd be keep self-financing the company, bootstrapping and taking what we had built and learned and turning int into something that would really take things to the next level of providing value, giving people a way to use bitcoin and helping it spread.
 
 It's the first public database ever.A public space that the people of the world own, that can be used for freedom of speech, to immortalize our thoughts, and to create a real layer for publishing, monetization and digital ownership. 
 
