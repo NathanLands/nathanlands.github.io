@@ -1,6 +1,6 @@
 # Blockai
 
-## TL;DR Story 
+## TL;DR Story(includes spoilers!!)
 * We launched [QuickCoin](http://www.quickcoin.co) late last May as an experiment in making bitcoin simple and spread it around the world. It was the first bitcoin wallet with identity. 
 * It was loved for a brief point in time, then died a horrible death. 
 * We've silently been building our next product -- with the potential to revolutionize publishing and digital ownership. 
@@ -60,18 +60,20 @@ While William was building the product, we worked on continuining to engage with
 
 <p align="center"><img src="http://i.imgur.com/wAcQdD9.gif" alt="Coin Summit"></p>
 
-Then, we participated in 2 charity events with "HackCancer", as another experiment with cryptocurrency. We wanted to see if people would use bitcoin for donations, and if it could actually help extend real-world fundraising efforts by also allowing people to easily donate online as well. The experiment was pretty much a failure. At the event, one of the VCs on stage(that was playing in a band) basically made fun of bitcoin and seemed pretty oblivious to what it actually was.. so yeah, that didn't help.  
+I also had Ramen with Paul Vigna of The Wall Street Journal and discussed his book "[The Age of Cryptocurrnecy](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)"(by the way, you should buy it). 
+
+Then, we participated in 2 charity events with "HackCancer", as another experiment with cryptocurrency. We wanted to see if people would use bitcoin for donations, and if it could actually help extend real-world fundraising efforts by also allowing people to easily donate online as well. The experiment was pretty much a failure. At the event, one of the VCs on stage(that was playing in a band) basically made fun of bitcoin.. so yeah, that didn't help.  
 
 <p align="center"><img src="http://i.imgur.com/Mo60seP.gif" alt="Hack Cancer"></p>
 
 William and I also spent time on helping with what turned out to be a very poorly planned documentary for the #1 Korean Television station, KBS. After talking with them, doing video interviews and touring them around San Francisco using bitcoin, it became apparent they didn't really get bitcoin or the blockchain. The documentary was never aired. 
 ____
 
-Next we decided we wanted to make a cool, light hearted video to show off QuickCoin when we launched, to further re-inforce the friendly image of bitcoin to regular people. My buddy(and now advisor) Niero, the creator of popular gaming site [Destructoid](http://www.destructoid.com/), introduced us to a great guy named Sean Brown @ [Video Purveyor](http://videopurveyor.com/) who happened to be next door to our office. We were able to just walk over, sit on the couch, and make a pretty cool video to explain QuickCoin...
+Next we decided we wanted to make a cool, light hearted video to show off QuickCoin when we launched, to further re-inforce the friendly image of bitcoin to regular people. My buddy(and now advisor) Niero Gonzalez, the creator of popular gaming site [Destructoid](http://www.destructoid.com/), introduced us to a great guy named Sean Brown @ [Video Purveyor](http://videopurveyor.com/) who happened to be next door to our office. We were able to just walk over, sit on the couch, and make a pretty cool video to explain QuickCoin...
 
 <p align="center"><iframe src="//player.vimeo.com/video/94730113" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-Then we launched QuickCoin V0.1. It was loved. It got a lot of media attention to, landing on the top of Reddit/r/bitcoin 3 times, top of Reddit/r/dogecoin once, and coverage by [PandoDaily](http://pando.com/2014/05/26/san-franciscos-quickcoin-bitcoin-so-simple-even-mom-can-use-it/) and many others. 
+Then we launched QuickCoin V0.1. It was pretty loved despite most people telling us it would be hated. It got a lot of media attention too, landing on the top of Reddit/r/bitcoin 3 times, top of Reddit/r/dogecoin once(sorry guys for never making a cool Dogecoin wallet!), and coverage by CoinDesk, [PandoDaily](http://pando.com/2014/05/26/san-franciscos-quickcoin-bitcoin-so-simple-even-mom-can-use-it/) and many others. 
 
 <p align="center"><img src="http://i.imgur.com/dQiVR2s.jpg" alt="QuickCoin V0.1"></p>
 
@@ -101,13 +103,13 @@ and then... traffic died off. hard.
 
 We have a few theories about why it failed. 
 
-1. there is nothing to do with bitcoin. 
-2. the mainstream isn't ready for bitcoin. 
+1. *there is nothing to do with bitcoin. like seriously.*   
+2. the mainstream isn't ready for bitcoin yet. 
 3. the act of sending bitcoin to someone who doesn't know anything about it, without any purpose, is very awkward and results in a dead end viral loop.
 
-That in combination with the fact that we didn't personally think a bitcoin wallet was inspiring to work on, as well as the Facebook API was changing so we'd have to change anyways. 
+That in combination with the fact that we didn't personally think a bitcoin wallet alone was a big deal or inspiring to work on, as well as the Facebook API was changing so we'd have to change anyways. We thought we could build QuickCoin and slowly evolve into what we had imagined.. but it became apparent that wouldn't work. We'd have to go straight towards what we had been imagining. 
 
-We beat our heads against the wall a bit, then got back to work. We soul searched and thought long and hard about what fundamentally had interested us in bitcoin in the first place. We kept coming back to the idea of bitcoin being this freeing thing. The more and more we thought about it, we realized that the blockchain could be used for so much more than it is today.
+We beat our heads against the wall a bit, then got back to work. 
 
 We decided instead of raising money from investors for a product we weren't convinced would really be the future, we'd be keep self-financing the company, bootstrapping and taking what we had built and learned and turning int into something that would really take things to the next level of providing value, giving people a way to use bitcoin and helping it spread.
 
