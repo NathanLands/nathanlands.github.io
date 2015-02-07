@@ -167,6 +167,8 @@ We plan to make money by charging a small fee for the convenience factor of usin
 
 In the future, we may also create new products on top of Blockai that help support our business and goals in order to create a sustainable business that can . So, from a business standpoint, basically Netscape but with better economics because we have a wallet built right in. That way we're never in a position of needing to put stupid shit in the browser, like Netscape had to do. Then they had to go purely open-source which led to them being overtaken by Google Chrome and others. :)
 
+<p align="center"><img src="http://i.imgur.com/o001Iuz.jpg" alt="Blockai"></p>
+
 We realize that this may upset some people. XYZ reason why okay.
 
 Just like how the internet brought poets, artists and other people into the internet, the Blockchain is a creative space that is going to unlock people's passions and inspire imaginations around the world. 
@@ -186,6 +188,6 @@ Sincerely,
 Nathan Lands & William Cotton
 
 
-P.S. [We're building our team](https://angel.co/blockai/jobs)! Please read about [our culture](https://www.blockai.com/culture) and [mission](https://www.blockai.com/culture#mission) before applying.  
+P.S. [We're building our team](https://angel.co/blockai/jobs)! 
 
 P.S.S. _I'd like to sincerenly thank the people who altho they're not part of our team, have been part of the path to us getting here, whether they know it or not. Patrick Murck, Atif Nazir, Scott Banister, Marshall Hayner, Jackson Palmer and many others I'm forgetting._
