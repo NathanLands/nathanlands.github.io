@@ -113,11 +113,15 @@ We beat our heads against the wall a bit, then got back to work. We soul searche
 
 It's the first public database ever.A public space that the people of the world own, that can be used for freedom of speech, to immortalize our thoughts, and to create a real layer for publishing, monetization and digital ownership. 
 
-We then began working on the new thing. After speaking in Vegas at "Inside Bitcoins" and having several drinks, we came up with the name "Quick"...stemmed from us not liking the QuickCoin name. We felt like it sounded cheap and also got confused as an alt currency. 
+We then began working on the new thing, but needed a new name that matched our mission. We never really liked the QuickCoin name. It always reminded me of something cheap & quick. Or Kwik-E-Mart. People thought it was an alt currency(and there had been one before named that). Also, it was a remnant of our previous co-founder. 
+
+<p align="center"><img src="http://i.imgur.com/Srk6gY1.png" alt="Kwik-E-Mart"></p>
+
+In my hotel room after speaking in Vegas at "Inside Bitcoins", I came up with the name "Quick".
 
 Our first concept for what QuickCoin would evolve into was a de-centralized social network using the blockchain.
 
-<p align="center"><img src="http://i.imgur.com/Sjc75Fh.jpg" alt="Quick"></p>
+<p align="center"><img src="http://i.imgur.com/VoQuM7v.png" alt="Quick"></p>
 
 Pretty cool idea. But too mainstream, too soon, and it wouldn't do much to help the entire bitcoin ecosystem.
 
