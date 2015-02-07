@@ -60,7 +60,7 @@ While William was building the product, we worked on continuining to engage with
 
 <p align="center"><img src="http://i.imgur.com/wAcQdD9.gif" alt="Coin Summit"></p>
 
-I also had Ramen with Paul Vigna of The Wall Street Journal and discussed his book "[The Age of Cryptocurrnecy](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)"(by the way, you should buy it). 
+I also had Ramen with Paul Vigna of The Wall Street Journal and discussed his book "[The Age of Cryptocurrnecy"](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)"(by the way, you should buy it. Paul is a genuinely nice guy whos' trying to help the space get the exposure it deserves) 
 
 Then, we participated in 2 charity events with "HackCancer", as another experiment with cryptocurrency. We wanted to see if people would use bitcoin for donations, and if it could actually help extend real-world fundraising efforts by also allowing people to easily donate online as well. The experiment was pretty much a failure. At the event, one of the VCs on stage(that was playing in a band) basically made fun of bitcoin.. so yeah, that didn't help.  
 
@@ -90,12 +90,12 @@ A few launch stats:
 * Over 10,000 users signed up. 
 * 3:10 Average usage duration.
 
-Then, things got serious. Major disagreements were had about the future and hard decisions had to be made. Our team went from 3 to 2. It was painful and difficult for all, but we knew it was for the best for all involved and for the future strength of the company. 
-
 As part of our focus on thinking very long term, we brought on a great group of [advisors](http://quickcoin.co/about#advisors) to give us a solid foundation for the future. We brought in friends & people we respected from major technology companies and gaming companies. People like Zach Klein(Vimeo), Don Dodge(Google), Paul McKellar(Square), Kai Huang(Guitar Hero) and Kevin Chou(Kabam). 
 
-We worked on the next version of QuickCoin, with a more native feel for the HTML5 Mobile version.
+We worked on the next version of QuickCoin, with a more native feel for the mobile version, as well as a lot of cool features that people didn't really notice like "QuickCoin Nearby" which allowed you to send bitcion to anyone nearby without having to be Facebook friends or knowing their public key. 
 <p align="center"><img src="http://quickcoin2" alt="QuickCoin V2.0"></p>
+
+We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer XYZ, the guy who created a lot of the latest icons for AirBnB. 
 
 and then... traffic died off. hard. 
 
@@ -107,11 +107,13 @@ We have a few theories about why it failed.
 2. the mainstream isn't ready for bitcoin yet. 
 3. the act of sending bitcoin to someone who doesn't know anything about it, without any purpose, is very awkward and results in a dead end viral loop.
 
-That in combination with the fact that we didn't personally think a bitcoin wallet alone was a big deal or inspiring to work on, as well as the Facebook API was changing so we'd have to change anyways. We thought we could build QuickCoin and slowly evolve into what we had imagined.. but it became apparent that wouldn't work. We'd have to go straight towards what we had been imagining. 
+Then, things got serious. Major disagreements were had about the future and hard decisions had to be made. Our team went from 3 to 2. It was painful and difficult for all, but we knew it was for the best for all involved and for the future strength of the company.
 
-We beat our heads against the wall a bit, then got back to work. 
+That in combination with the fact that we didn't personally think a bitcoin wallet by its self would help change the world, as well as the Facebook API was changing so we'd have to change anyways. We thought we could build QuickCoin and slowly evolve into what we had imagined.. but it became apparent that wouldn't work. We'd have to go straight towards what we had been imagining. 
 
-We decided instead of raising money from investors for a product we weren't convinced would really be the future, we'd be keep self-financing the company, bootstrapping and taking what we had built and learned and turning int into something that would really take things to the next level of providing value, giving people a way to use bitcoin and helping it spread.
+We beat our heads against the wall a bit, then got back to work more determined than ever. 
+
+We decided instead of raising money from investors for a product we weren't convinced would really be the future, we'd be keep self-financing the company, bootstrapping and taking what we had built and learned and turning it into something that would really take things to the next level of providing value, giving people a way to use bitcoin and helping it spread.
 
 It's the first public database ever.A public space that the people of the world own, that can be used for freedom of speech, to immortalize our thoughts, and to create a real layer for publishing, monetization and digital ownership. 
 
