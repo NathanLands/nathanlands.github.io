@@ -100,7 +100,7 @@ We worked on the next version of QuickCoin, with a more native feel for the mobi
 
 We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
 
-<p align="center"><img src="http://i.imgur.com/xCSTn0E.gif" alt="QuickCoin Art"></p>
+<p align="center"><img src="http://i.imgur.com/IbMkg65.gif" alt="QuickCoin Art"></p>
 
 and then... traffic died off. hard. 
 
