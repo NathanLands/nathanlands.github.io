@@ -129,9 +129,13 @@ William was very passionate about open-source and was adamant about building a r
 
 Then, we realized that there was no easy way to browse and use the blockchain. The state of applications and protocols on the blockchain was a nightmare. A lot of brilliant young kids building cool things, but with no environment to bring things together and give people a place to play with it all in a way that made sense. We realized the kind of application we wanted to build, there was no existing infrastructure to support it. 
 
-Then, in the shower I came up with the name Blockai with the idea being that the blockchain is like this amazing "God Stream" that will exist forever, and we're the eye into that world. 
+Then, in the shower I came up with the name with the inspiration being that the blockchain is like this amazing "God Stream" that will exist forever, and we're building the eye to experience that world.  
 
-In Japanese, when they use the English word for "Eye", they spell it "ai". Also, in Chinese "Kai" means to unlock/unleash. Both fit perfectly with what we're aspiring to do so it was an obvious decision. Plus, suprisingly the domain was available. :)
+In Japanese, "ai" is how you spell the English word "Eye" using the Roman alphabet. In Chinese, "Kai" means to open, to unlock, to begin. All fitting, especially since the company started in Japan Town. :) 
+
+As a result, we decided to call the company *Blockai* (Pronounced "Block Eye"). 
+
+<p align="center"><img src="http://i.imgur.com/VoQuM7v.png" alt="Kai"></p>
 
 WHY THIS IS IMPORTANT..... HISTORY...
 
@@ -168,9 +172,11 @@ We believe that people should own their data and identity. We also believe that 
 A new era is starting. A future where the blockchain acts as a public space on the web that no single company or country owns. A place where we creators can create, and where people can be heard, where things that are earned can be actually owned and used however you want, wherever you want, and where people can be fairly compensated for what they've built. A better future. 
 
 
+
 Sincerely,
 
 Nathan Lands & William Cotton
+
 
 P.S. [We're building our team](https://angel.co/blockai/jobs)! Please read about [our culture](https://www.blockai.com/culture) and [mission](https://www.blockai.com/culture#mission) before applying.  
 
