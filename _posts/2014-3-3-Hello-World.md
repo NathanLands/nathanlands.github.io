@@ -8,12 +8,13 @@
 ### Today, we're excited to announce the public beta of our next product. [Blockai](https://www.blockai.com), "The Netscape of the Blockchain". 
 * We see the blockchain as an entirely new medium, just like the Internet, TV and Radio before it.
 * It's the world's first reliable public database. A public space that no single company or government controls. 
-* Blockai is a universal blockchain browser and publishing tool.  
-* A single application for using the best protocols of the blockchain. Instead of having to use different logins and wallets and find all of the different apps, you can now do it all from Blockai with a single identity and wallet.
+* Blockai is a universal blockchain browser and publishing tool. A single application for using the best protocols of the blockchain. Instead of having to use different logins and wallets and find all of the different apps, you can now do it all from Blockai with a single identity and wallet.
 * The same way Netscape showed the world what it means to use the web and built open-source technologies to support its growth— we are doing the same for the blockchain. 
+
 * Our first open-source protocols are [Blockcast](https://github.com/williamcotton/blockcast)(text)
 * and in time for Valentine's Day, [Proof of Love](https://github.com/blockai/proof-of-love). **_"Diamonds aren't forever. The Blockchain is."_**
-* _We believe that by giving people more ways to use the blockchain and bringing order to chaos, Blockai will help spread bitcoin and start building real sustainable value for us all._
+
+_We believe that by giving people more ways to use the blockchain and bringing order to chaos, Blockai will help spread bitcoin and start building real sustainable value for us all._
 
 ## Long Story 
 ### Once upon a time...
