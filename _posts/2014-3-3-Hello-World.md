@@ -73,7 +73,7 @@ Next we decided we wanted to make a cool, light hearted video to show off QuickC
 
 Then we launched QuickCoin V0.1. It was loved. It got a lot of media attention to, landing on the top of Reddit/r/bitcoin 3 times, top of Reddit/r/dogecoin once, and coverage by [PandoDaily](http://pando.com/2014/05/26/san-franciscos-quickcoin-bitcoin-so-simple-even-mom-can-use-it/) and many others. 
 
-<p align="center"><img src="http://i.imgur.com/d4vh1lk.jpg" alt="QuickCoin V0.1"></p>
+<p align="center"><img src="http://i.imgur.com/nQKGsNK.jpg" alt="QuickCoin V0.1"></p>
 
 Investors contacted us, chased us, and even said things like "we'll invest no matter the terms as long as there is a cap on your note!". It was pretty rediculous. 
 
