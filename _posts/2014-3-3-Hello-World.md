@@ -125,7 +125,7 @@ Our first concept for what QuickCoin would evolve into was a de-centralized soci
 
 Pretty cool idea. But too mainstream, too soon, and it wouldn't do much to help the entire bitcoin ecosystem.
 
-William was very passionate about open-source and was adamant about building a real software company that solved real problems, not just building some "cute app" that investors would foolishly like. 
+William was very passionate about open-source and was adamant about building a real software company that solved real problems, not just building some "cute app" that might be a fad for a short while. 
 
 Then, we realized that there was no easy way to browse and use the blockchain. The state of applications and protocols on the blockchain was a nightmare. A lot of brilliant young kids building cool things, but with no environment to bring things together and give people a place to play with it all in a way that made sense. We realized the kind of application we wanted to build, there was no existing infrastructure to support it. 
 
