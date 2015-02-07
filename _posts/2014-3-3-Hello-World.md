@@ -69,7 +69,6 @@ Then, we participated in 2 charity events with "HackCancer", as another experime
 
 <p align="center"><img src="http://i.imgur.com/Mo60seP.gif" alt="Hack Cancer"></p>
 
-William and I also spent time on helping with what turned out to be a very poorly planned documentary for the #1 Korean Television station, KBS. After talking with them, doing video interviews and touring them around San Francisco using bitcoin, it became apparent they didn't really get bitcoin or the blockchain. The documentary was never aired. 
 ____
 
 Next we decided we wanted to make a cool, light hearted video to show off QuickCoin when we launched, to further re-inforce the friendly image of bitcoin to regular people. My buddy(and now advisor) Niero Gonzalez, the creator of popular gaming site [Destructoid](http://www.destructoid.com/), introduced us to a great guy named Sean Brown @ [Video Purveyor](http://videopurveyor.com/) who happened to be next door to our office. We were able to just walk over, sit on the couch, and make a pretty cool video to explain QuickCoin...
@@ -93,15 +92,6 @@ But we did pretty decent. Here were our launch stats:
 * Over 10,000 users signed up. 
 * 3:10 Average usage duration.
 
-As part of our focus on thinking very long term, we brought on a great group of [advisors](http://quickcoin.co/about#advisors) to give us a solid foundation for the future. We brought in friends & people we respected from major technology companies and gaming companies. People like Zach Klein(Vimeo), Don Dodge(Google), Paul McKellar(Square), Kai Huang(Guitar Hero) and Kevin Chou(Kabam). 
-
-We worked on the next version of QuickCoin, with a more native feel for the mobile version, as well as a lot of cool features that people didn't really notice like "QuickCoin Nearby" which allowed you to send bitcion to anyone nearby without having to be Facebook friends or knowing their public key. 
-<p align="center"><img src="http://i.imgur.com/h4Wo1Vt.png" alt="QuickCoin V2.0"></p>
-
-We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
-
-<p align="center"><img src="http://i.imgur.com/pNc0kVU.gif" alt="QuickCoin Art"></p>
-
 and then... traffic died off. hard. 
 
 <p align="center"><img src="http://i.imgur.com/xCSTn0E.jpg" alt="QuickCoin Chart"></p>
@@ -113,6 +103,15 @@ We have a few theories about why it failed.
 3. the act of sending bitcoin to someone who doesn't know anything about it, without any purpose, is very awkward and results in a dead end viral loop.
 
 Then, things got serious. Major disagreements were had about the future and hard decisions had to be made. Our team went from 3 to 2. It was painful and difficult for all, but we knew it was for the best for all involved and for the future strength of the company.
+
+As part of our focus on thinking very long term, we brought on a great group of [advisors](http://quickcoin.co/about#advisors) to give us a solid foundation for the future. We brought in friends & people we respected from major technology companies and gaming companies. People like Zach Klein(Vimeo), Don Dodge(Google), Paul McKellar(Square), Kai Huang(Guitar Hero) and Kevin Chou(Kabam). 
+
+We worked on the next version of QuickCoin, with a more native feel for the mobile version, as well as a lot of cool features that people didn't really notice like "QuickCoin Nearby" which allowed you to send bitcion to anyone nearby without having to be Facebook friends or knowing their public key. 
+<p align="center"><img src="http://i.imgur.com/h4Wo1Vt.png" alt="QuickCoin V2.0"></p>
+
+We also had some graphics designed to represent the kind of brand we wanted to build, designed by the awesome designer [Zach Roszczewski](https://dribbble.com/zachroszczewski), the guy who created a lot of the latest icons for Airbnb. 
+
+<p align="center"><img src="http://i.imgur.com/pNc0kVU.gif" alt="QuickCoin Art"></p>
 
 That in combination with the fact that we didn't personally think a bitcoin wallet by its self would help change the world, as well as the Facebook API was changing so we'd have to change anyways. We thought we could build QuickCoin and slowly evolve into what we had imagined.. but it became apparent that wouldn't work. We'd have to go straight towards what we had been imagining. 
 
