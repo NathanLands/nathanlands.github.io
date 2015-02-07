@@ -73,6 +73,8 @@ Next we decided we wanted to make a cool, light hearted video to show off QuickC
 
 Then we launched QuickCoin V0.1. It was loved. It got a lot of media attention to, landing on the top of Reddit/r/bitcoin 3 times, top of Reddit/r/dogecoin once, and coverage by [PandoDaily](http://pando.com/2014/05/26/san-franciscos-quickcoin-bitcoin-so-simple-even-mom-can-use-it/) and many others. 
 
+<p align="center"><img src="http://i.imgur.com/nQKGsNK.jpg" alt="QuickCoin V0.1"></p>
+
 Investors contacted us, chased us, and even said things like "we'll invest no matter the terms as long as there is a cap on your note!". It was pretty rediculous. 
 
 Then we got rich and danced in money...
@@ -86,7 +88,7 @@ A few launch stats:
 * Over 10,000 users signed up. 
 * 3:10 Average usage duration.
 
-Then, things got serious. Major disagreements were had and hard decisions had to be made. Our team went from 3 to 2. It was painful and difficult for all, but we knew it was for the best for all involved and for the future strength of the company. 
+Then, things got serious. Major disagreements were had about the future and hard decisions had to be made. Our team went from 3 to 2. It was painful and difficult for all, but we knew it was for the best for all involved and for the future strength of the company. 
 
 We decided instead of raising money from investors for a product we weren't convinced would really be the future, we'd be keep self-financing the company, bootstrapping and taking what we had built and learned and turning int into something that would really take things to the next level of providing value, giving people a way to use bitcoin and helping it spread. 
 
