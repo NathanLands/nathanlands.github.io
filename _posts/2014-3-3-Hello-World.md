@@ -1,6 +1,6 @@
 # Blockai
 
-## TL;DR Story(includes spoilers!!)
+## TL;DR Story
 * We launched [QuickCoin](http://www.quickcoin.co) late last May as an experiment in making bitcoin simple and spread it around the world. It was the first bitcoin wallet with identity. 
 * It was loved for a brief point in time, then died a horrible death. 
 * We've silently been building our next product -- with the potential to revolutionize publishing and digital ownership. 
