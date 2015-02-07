@@ -69,7 +69,7 @@ ____
 
 Next we decided we wanted to make a cool, light hearted video to show off QuickCoin when we launched, to further re-inforce the friendly image of bitcoin to regular people. My buddy(and now advisor) Niero, the creator of popular gaming site [Destructoid](http://www.destructoid.com/), introduced us to a great guy named Sean Brown @ [Video Purveyor](http://videopurveyor.com/) who happened to be next door to our office. We were able to just walk over, sit on the couch, and make a pretty cool video to explain QuickCoin...
 
-<iframe src="//player.vimeo.com/video/94730113" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/94730113">Introducing QuickCoin</a> from <a href="http://vimeo.com/user27871849">QuickCoin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p align="center"><iframe src="//player.vimeo.com/video/94730113" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 Then we launched QuickCoin V0.1. It was loved. It got a lot of media attention to, landing on the top of Reddit/r/bitcoin 3 times, top of Reddit/r/dogecoin once, and coverage by [PandoDaily](http://pando.com/2014/05/26/san-franciscos-quickcoin-bitcoin-so-simple-even-mom-can-use-it/) and many others. 
 
