@@ -170,4 +170,4 @@ Nathan Lands & William Cotton
 
 P.S. [We're building our team](https://angel.co/blockai/jobs)! Please read about [our culture](https://www.blockai.com/culture) and [mission](https://www.blockai.com/culture#mission) before applying.  
 
-P.S.S. _I'd like to sincerenly thank the people who altho they're not part of the company, have been a part of the path to us getting here, whether they know it or not. Patrick Murck, Erik Voorhees, Atif Nazir, Scott Banister, Marshall Hayner, Jackson Palmer and many others I'm forgetting._
+P.S.S. _I'd like to sincerenly thank the people who altho they're not part of our team, have been part of the path to us getting here, whether they know it or not. Patrick Murck, Atif Nazir, Scott Banister, Marshall Hayner, Jackson Palmer and many others I'm forgetting._
